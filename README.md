@@ -1,10 +1,10 @@
-# flutter_counter
+# Touch Counter Application
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+User can tap on a button and the counter displays on the screen how many times user touched it.
 
 A few resources to get you started if this is your first Flutter project:
 
